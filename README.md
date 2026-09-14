@@ -46,7 +46,7 @@ Reviews skewed positive overall (840 positive vs. 226 negative sentiment, averag
 
 ## Dashboard
 
-`dashboard/Marketing_Analysis_Dashboard.pbix`, built in Power BI Desktop. Covers the conversion funnel and monthly trend, engagement by content type and campaign, and review sentiment by product and over time.
+`Marketing_Analysis_Dashboard.pbix`, built in Power BI Desktop. Covers the conversion funnel and monthly trend, engagement by content type and campaign, and review sentiment by product and over time.
 
 ## Files
 
