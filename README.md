@@ -54,6 +54,6 @@ Reviews skewed positive overall (840 positive vs. 226 negative sentiment, averag
 - [`scripts/customer_reviews_enrichment.py`](./scripts/customer_reviews_enrichment.py) — the sentiment scoring pipeline
 - [`data/raw/`](./data/raw) — original CSV exports
 - [`data/processed/`](./data/processed) — sentiment-enriched review data
-- [`dashboard/Marketing_Analysis_Dashboard.pbix`](./dashboard) — the Power BI report
+- [`Marketing_Analysis_Dashboard.pbix`](./Marketing_Analysis_Dashboard.pbix) — the Power BI report
 - [`presentations/`](./presentations) — the original business case and the findings deck presented to stakeholders
 - [`database_backup/`](./database_backup) — full SQL Server backup for reproducing the source DB
